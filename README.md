@@ -10,6 +10,8 @@ An open source project powered by Docker for managing applications, game servers
 1. Clone the repository:
 ```
 git clone https://github.com/AlmostCloud/skyport/
+cd skyport
+sudo su
 ```
 
 3. Install dependencies:
