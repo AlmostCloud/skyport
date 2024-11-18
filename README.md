@@ -16,6 +16,7 @@ sudo su
 
 3. Install dependencies:
 ```
+npm install -g npm@10.9.0
 npm install
 ```
 
