@@ -8,9 +8,11 @@ An open source project powered by Docker for managing applications, game servers
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/AlmostCloud/skyport/`
+```
+git clone https://github.com/AlmostCloud/skyport/
+```
 
-2. Install dependencies:
+3. Install dependencies:
 ```
 npm install
 ```
